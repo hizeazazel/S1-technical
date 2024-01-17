@@ -1,0 +1,149 @@
+body {
+    background-color: #A8B2FC;
+    /*margin-top: 0; 
+    margin-bottom: 0;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: background-color 1s;
+}
+
+table {
+    border-collapse: separate;
+    padding: 0;
+}
+
+td, th{
+    padding:0;
+}
+
+.div1{
+    position: absolute; 
+    top: 33px;
+}
+
+.div2{
+    margin-left: 350px; 
+    margin-top: -800px;
+}
+
+p {
+    color: #EFEAFB;
+    font-family: georgia;
+}
+
+#name{
+    font-size: 65;
+}
+
+#intro{
+    font-size: 16;
+    margin-top: -20px;
+}
+
+#skills {
+    font-size:50;
+    margin-top: -5px;
+}
+
+.fr {
+    padding: 4;
+    margin-top: -35px;
+}
+
+.title {
+    font-size: 18;
+}
+
+.skills-div {
+    height: 10px; 
+    border-radius: 10%; 
+    background-color: #EFEAFB;
+}
+
+#wd1 {
+    width: 130px;
+}
+
+#wd2 {
+    width: 150px;
+}
+
+#wd3 {
+    width: 150px;
+}
+
+#wd4 {
+    width: 150px;
+}
+
+#wd5 {
+    width: 150px;
+}
+
+#wd6 {
+    width: 170px;
+}
+
+#wd7 {
+    width: 140px;
+}
+
+#wd8 {
+    width: 180px;
+}
+
+.info {
+    margin-left: 38px; 
+    margin-top: 450px;
+}
+
+.img {
+    width: 25px;
+    height: 25px;
+}
+
+.info-textsize {
+    font-size: 15px;
+}
+
+.educ-smaller {
+    margin-top: -8px;
+    font-size: 15px;
+}
+
+#education {
+    font-size: 40px;
+}
+
+.educ-bigger {
+    font-size: 18;
+    font-weight: bold;
+}
+
+#marg-sr {
+    margin-top: 15px;
+}
+
+.ccbutton{
+  background-color: #FFFFFF;
+  border: 0;
+  border-radius: 8px;
+  color:#A8B2FC;
+  font-size: 12px;
+  line-height: 16px;
+  padding: 12px 16px;
+  font-family: georgia;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.ccbutton:hover {
+  background-color: #EFEAFB;
+}
