@@ -1,6 +1,6 @@
 function changecolor() {
-    const colors = ["#FFECF0", "#008080", "#081B41", "#990000", "FFF2CC"];
-    const textColors = ["#C95A71", "#b3f7f7", "#FFFFFF", "000000", "CE7E00"];
+    const colors = ["#C95A71", "#008080", "#081B41", "#990000", "FFF2CC"];
+    const textColors = ["#FFECF0", "#b3f7f7", "#FFFFFF", "000000", "CE7E00"];
   
     const randomIndex = Math.floor(Math.random() * colors.length);
     document.body.style.backgroundColor = colors[randomIndex];
