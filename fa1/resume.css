@@ -32,15 +32,20 @@ td, th{
     padding:0;
 }
 
+img {
+    width: 250px; 
+    height: 250px;
+}
+
 .div1{
     position: absolute; 
-    top: 50px;
-    left: 20px;
+    top: 63px;
+    left: 35px;
 }
 
 .div2{
     margin-left: 350px; 
-    margin-top: -800px;
+    margin-top: -720px;
 }
 
 p {
@@ -111,7 +116,7 @@ p {
 
 .info {
     margin-left: 38px; 
-    margin-top: 300px;
+    margin-top: 270px;
 }
 
 .img {
