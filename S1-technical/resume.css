@@ -147,10 +147,10 @@ p {
 }
 
 .ccbutton{
-  background-color: #FFFFFF;
+  background-color: #FFF2CC;
   border: 0;
   border-radius: 8px;
-  color:#FFF2CC;
+  color:#CE7E00;
   font-size: 12px;
   line-height: 16px;
   padding: 12px 16px;
@@ -159,9 +159,5 @@ p {
   text-decoration: none;
   cursor: pointer;
   margin-top: 10px;
-}
-
-.ccbutton:hover {
-  background-color: #000000;
 }
 
