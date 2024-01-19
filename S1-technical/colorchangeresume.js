@@ -7,5 +7,6 @@ function changecolor() {
     document.querySelectorAll('p').forEach(i=>i.style.color = textColors[randomIndex]);
     document.querySelectorAll('.skills-div').forEach(i=>i.style.backgroundColor = textColors[randomIndex]);
     document.querySelectorAll('.ccbutton').forEach(i=>i.style.color = colors[randomIndex]);
+    document.querySelectorAll('button').forEach(i=>i.style.backgroundColor = textColors[randomIndex]);
   }
   
